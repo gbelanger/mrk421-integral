@@ -1,6 +1,6 @@
 # mrk421-integral
 
-This repository contains the results of analysis of INTEGRAL IBIS/ISGRI data. The data is from revolutions 2300 and 2308.
+This repository contains the results of analysis of INTEGRAL data. The data is from revolutions 2300 and 2308.
 
 ## Files
 
