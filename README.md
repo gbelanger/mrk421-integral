@@ -12,7 +12,6 @@ The files include the list of science windows (scw.lis), mosaics, and time serie
 - mosa-45-60.fits
 - mosa-60-100.fits
 
-Mrk 421 in these three mosaics look like this:
 <img src="mosa.png">
 
 ### Time Series
@@ -28,7 +27,6 @@ And in postscript format:
 - ts_2300.ps
 - ts_2308.ps
 
-These looks like this:
 <img src="ts_2300.png">
 <img src="ts_2308.pmg">
 
