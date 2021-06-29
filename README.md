@@ -28,7 +28,7 @@ And in postscript format:
 - ts_2308.ps
 
 <img src="ts_2300.png">
-<img src="ts_2308.pmg">
+<img src="ts_2308.png">
 
 ## Results
 
